@@ -1,5 +1,5 @@
-# activida-github-david-tadeo-guillen-flores
 david flores
-2-1
+23/03/2026
 desarrollo web de lado del cliente
 creacion de repositorio y edicion de archivos
+una solicitud de cambios en el repositorio
